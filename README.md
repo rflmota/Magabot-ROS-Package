@@ -1,4 +1,4 @@
 Magabot
 =======
 
-Three wheeled robot with navigation using ROS
+ROS drivers for Magabot - http://magabot.cc/
